@@ -1,0 +1,1016 @@
+<PAMDataset>
+  <Subdataset name="MODIS_Grid_8Day_1km_LST:Clear_sky_days">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="ALGORITHMPACKAGENAME">MOD_PR11A2</MDI>
+        <MDI key="ALGORITHMPACKAGEVERSION">6</MDI>
+        <MDI key="ASSOCIATEDINSTRUMENTSHORTNAME.1">MODIS</MDI>
+        <MDI key="ASSOCIATEDPLATFORMSHORTNAME.1">Terra</MDI>
+        <MDI key="ASSOCIATEDSENSORSHORTNAME.1">MODIS</MDI>
+        <MDI key="AUTOMATICQUALITYFLAG.1">Passed</MDI>
+        <MDI key="AUTOMATICQUALITYFLAGEXPLANATION.1">No automatic quality assessment is performed in the PGE</MDI>
+        <MDI key="CLOUD_CONTAMINATED_LST_SCREENED">NO</MDI>
+        <MDI key="DAYNIGHTFLAG">Both</MDI>
+        <MDI key="DESCRREVISION">6.1</MDI>
+        <MDI key="EASTBOUNDINGCOORDINATE">103.91821851307</MDI>
+        <MDI key="EXCLUSIONGRINGFLAG.1">N</MDI>
+        <MDI key="GRIDTYPE">Sinusoidal</MDI>
+        <MDI key="GRINGPOINTLATITUDE.1">29.9958333333333, 29.9958333333333, 20.0041666666667, 20.0041666666667</MDI>
+        <MDI key="GRINGPOINTLONGITUDE.1">92.3712326718087, 103.91821851307, 95.7766361029078, 85.1343123120416</MDI>
+        <MDI key="GRINGPOINTSEQUENCENO.1">1, 2, 3, 4</MDI>
+        <MDI key="HDFEOSVersion">HDFEOS_V2.19</MDI>
+        <MDI key="HORIZONTALTILENUMBER">26</MDI>
+        <MDI key="HORIZONTALTILENUMBER">26</MDI>
+        <MDI key="identifier_product_doi">10.5067/MODIS/MOD11A2.061</MDI>
+        <MDI key="identifier_product_doi">10.5067/MODIS/MOD11A2.061</MDI>
+        <MDI key="identifier_product_doi_authority">https://doi.org</MDI>
+        <MDI key="identifier_product_doi_authority">https://doi.org</MDI>
+        <MDI key="INPUTPOINTER">MOD11A1.A2024065.h26v06.061.2024066135108.hdf, MOD11A1.A2024066.h26v06.061.2024067120417.hdf, MOD11A1.A2024067.h26v06.061.2024068181916.hdf, MOD11A1.A2024068.h26v06.061.2024069095036.hdf, MOD11A1.A2024069.h26v06.061.2024070093813.hdf, MOD11A1.A2024070.h26v06.061.2024071093000.hdf, MOD11A1.A2024071.h26v06.061.2024073153352.hdf, MOD11A1.A2024072.h26v06.061.2024073235723.hdf</MDI>
+        <MDI key="INSTRUMENTNAME">Moderate-Resolution Imaging SpectroRadiometer</MDI>
+        <MDI key="LOCALGRANULEID">MOD11A2.A2024065.h26v06.061.2024074034334.hdf</MDI>
+        <MDI key="LOCALINPUTGRANULEID">Reserved for future use.</MDI>
+        <MDI key="LOCALVERSIONID">6.3.0</MDI>
+        <MDI key="LONGNAME">MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid</MDI>
+        <MDI key="long_name">the days in clear-sky conditions and with validate LSTs</MDI>
+        <MDI key="NORTHBOUNDINGCOORDINATE">29.9958333333333</MDI>
+        <MDI key="Number Type">uint8</MDI>
+        <MDI key="PARAMETERNAME.1">MOD 8-DAY 1KM L3 LST</MDI>
+        <MDI key="PGEVERSION">6.4.4</MDI>
+        <MDI key="PROCESSINGCENTER">MODAPS</MDI>
+        <MDI key="PROCESSINGDATETIME">2024-03-14T03:43:34.000Z</MDI>
+        <MDI key="PROCESSINGENVIRONMENT">Linux minion20226 5.4.0-1093-fips #103-Ubuntu SMP Thu Feb 8 14:02:37 UTC 2024 x86_64 x86_64 x86_64 GNU/Linux</MDI>
+        <MDI key="PRODUCTIONDATETIME">2024-03-14T03:43:34.000Z</MDI>
+        <MDI key="QAPERCENTCLOUDCOVER.1">1</MDI>
+        <MDI key="QAPERCENTGOODQUALITY">78</MDI>
+        <MDI key="QAPERCENTINTERPOLATEDDATA.1">0</MDI>
+        <MDI key="QAPERCENTMISSINGDATA.1">0</MDI>
+        <MDI key="QAPERCENTNOTPRODUCEDCLOUD">01</MDI>
+        <MDI key="QAPERCENTNOTPRODUCEDOTHER">10</MDI>
+        <MDI key="QAPERCENTOTHERQUALITY">12</MDI>
+        <MDI key="QAPERCENTOUTOFBOUNDSDATA.1">0</MDI>
+        <MDI key="RANGEBEGINNINGDATE">2024-03-05</MDI>
+        <MDI key="RANGEBEGINNINGTIME">00:00:00</MDI>
+        <MDI key="RANGEENDINGDATE">2024-03-12</MDI>
+        <MDI key="RANGEENDINGTIME">23:59:59</MDI>
+        <MDI key="REPROCESSINGACTUAL">reprocessed</MDI>
+        <MDI key="REPROCESSINGPLANNED">further update is anticipated</MDI>
+        <MDI key="SCIENCEQUALITYFLAG.1">Not Investigated</MDI>
+        <MDI key="SCIENCEQUALITYFLAGEXPLANATION.1">See http://landweb.nascom/nasa.gov/cgi-bin/QA_WWW/qaFlagPage.cgi?sat=terra&amp;ver=C6 the product Science Quality status.</MDI>
+        <MDI key="SHORTNAME">MOD11A2</MDI>
+        <MDI key="SOUTHBOUNDINGCOORDINATE">20.0041666666667</MDI>
+        <MDI key="SPSOPARAMETERS">2484 and 3323</MDI>
+        <MDI key="TileID">51026006</MDI>
+        <MDI key="valid_range">1, 255</MDI>
+        <MDI key="VERSIONID">61</MDI>
+        <MDI key="VERTICALTILENUMBER">06</MDI>
+        <MDI key="VERTICALTILENUMBER">06</MDI>
+        <MDI key="WESTBOUNDINGCOORDINATE">85.1343123120416</MDI>
+        <MDI key="_FillValue">0</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Description>the days in clear-sky conditions and with validate LSTs</Description>
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">1</MDI>
+          <MDI key="STATISTICS_MAXIMUM">255</MDI>
+          <MDI key="STATISTICS_MEAN">188.44245365311</MDI>
+          <MDI key="STATISTICS_STDDEV">69.751417942568</MDI>
+          <MDI key="STATISTICS_VALID_PERCENT">90.04</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="MODIS_Grid_8Day_1km_LST:Clear_sky_nights">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="ALGORITHMPACKAGENAME">MOD_PR11A2</MDI>
+        <MDI key="ALGORITHMPACKAGEVERSION">6</MDI>
+        <MDI key="ASSOCIATEDINSTRUMENTSHORTNAME.1">MODIS</MDI>
+        <MDI key="ASSOCIATEDPLATFORMSHORTNAME.1">Terra</MDI>
+        <MDI key="ASSOCIATEDSENSORSHORTNAME.1">MODIS</MDI>
+        <MDI key="AUTOMATICQUALITYFLAG.1">Passed</MDI>
+        <MDI key="AUTOMATICQUALITYFLAGEXPLANATION.1">No automatic quality assessment is performed in the PGE</MDI>
+        <MDI key="CLOUD_CONTAMINATED_LST_SCREENED">NO</MDI>
+        <MDI key="DAYNIGHTFLAG">Both</MDI>
+        <MDI key="DESCRREVISION">6.1</MDI>
+        <MDI key="EASTBOUNDINGCOORDINATE">103.91821851307</MDI>
+        <MDI key="EXCLUSIONGRINGFLAG.1">N</MDI>
+        <MDI key="GRIDTYPE">Sinusoidal</MDI>
+        <MDI key="GRINGPOINTLATITUDE.1">29.9958333333333, 29.9958333333333, 20.0041666666667, 20.0041666666667</MDI>
+        <MDI key="GRINGPOINTLONGITUDE.1">92.3712326718087, 103.91821851307, 95.7766361029078, 85.1343123120416</MDI>
+        <MDI key="GRINGPOINTSEQUENCENO.1">1, 2, 3, 4</MDI>
+        <MDI key="HDFEOSVersion">HDFEOS_V2.19</MDI>
+        <MDI key="HORIZONTALTILENUMBER">26</MDI>
+        <MDI key="HORIZONTALTILENUMBER">26</MDI>
+        <MDI key="identifier_product_doi">10.5067/MODIS/MOD11A2.061</MDI>
+        <MDI key="identifier_product_doi">10.5067/MODIS/MOD11A2.061</MDI>
+        <MDI key="identifier_product_doi_authority">https://doi.org</MDI>
+        <MDI key="identifier_product_doi_authority">https://doi.org</MDI>
+        <MDI key="INPUTPOINTER">MOD11A1.A2024065.h26v06.061.2024066135108.hdf, MOD11A1.A2024066.h26v06.061.2024067120417.hdf, MOD11A1.A2024067.h26v06.061.2024068181916.hdf, MOD11A1.A2024068.h26v06.061.2024069095036.hdf, MOD11A1.A2024069.h26v06.061.2024070093813.hdf, MOD11A1.A2024070.h26v06.061.2024071093000.hdf, MOD11A1.A2024071.h26v06.061.2024073153352.hdf, MOD11A1.A2024072.h26v06.061.2024073235723.hdf</MDI>
+        <MDI key="INSTRUMENTNAME">Moderate-Resolution Imaging SpectroRadiometer</MDI>
+        <MDI key="LOCALGRANULEID">MOD11A2.A2024065.h26v06.061.2024074034334.hdf</MDI>
+        <MDI key="LOCALINPUTGRANULEID">Reserved for future use.</MDI>
+        <MDI key="LOCALVERSIONID">6.3.0</MDI>
+        <MDI key="LONGNAME">MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid</MDI>
+        <MDI key="long_name">the nights in clear-sky conditions and with validate LSTs</MDI>
+        <MDI key="NORTHBOUNDINGCOORDINATE">29.9958333333333</MDI>
+        <MDI key="Number Type">uint8</MDI>
+        <MDI key="PARAMETERNAME.1">MOD 8-DAY 1KM L3 LST</MDI>
+        <MDI key="PGEVERSION">6.4.4</MDI>
+        <MDI key="PROCESSINGCENTER">MODAPS</MDI>
+        <MDI key="PROCESSINGDATETIME">2024-03-14T03:43:34.000Z</MDI>
+        <MDI key="PROCESSINGENVIRONMENT">Linux minion20226 5.4.0-1093-fips #103-Ubuntu SMP Thu Feb 8 14:02:37 UTC 2024 x86_64 x86_64 x86_64 GNU/Linux</MDI>
+        <MDI key="PRODUCTIONDATETIME">2024-03-14T03:43:34.000Z</MDI>
+        <MDI key="QAPERCENTCLOUDCOVER.1">1</MDI>
+        <MDI key="QAPERCENTGOODQUALITY">78</MDI>
+        <MDI key="QAPERCENTINTERPOLATEDDATA.1">0</MDI>
+        <MDI key="QAPERCENTMISSINGDATA.1">0</MDI>
+        <MDI key="QAPERCENTNOTPRODUCEDCLOUD">01</MDI>
+        <MDI key="QAPERCENTNOTPRODUCEDOTHER">10</MDI>
+        <MDI key="QAPERCENTOTHERQUALITY">12</MDI>
+        <MDI key="QAPERCENTOUTOFBOUNDSDATA.1">0</MDI>
+        <MDI key="RANGEBEGINNINGDATE">2024-03-05</MDI>
+        <MDI key="RANGEBEGINNINGTIME">00:00:00</MDI>
+        <MDI key="RANGEENDINGDATE">2024-03-12</MDI>
+        <MDI key="RANGEENDINGTIME">23:59:59</MDI>
+        <MDI key="REPROCESSINGACTUAL">reprocessed</MDI>
+        <MDI key="REPROCESSINGPLANNED">further update is anticipated</MDI>
+        <MDI key="SCIENCEQUALITYFLAG.1">Not Investigated</MDI>
+        <MDI key="SCIENCEQUALITYFLAGEXPLANATION.1">See http://landweb.nascom/nasa.gov/cgi-bin/QA_WWW/qaFlagPage.cgi?sat=terra&amp;ver=C6 the product Science Quality status.</MDI>
+        <MDI key="SHORTNAME">MOD11A2</MDI>
+        <MDI key="SOUTHBOUNDINGCOORDINATE">20.0041666666667</MDI>
+        <MDI key="SPSOPARAMETERS">2484 and 3323</MDI>
+        <MDI key="TileID">51026006</MDI>
+        <MDI key="valid_range">1, 255</MDI>
+        <MDI key="VERSIONID">61</MDI>
+        <MDI key="VERTICALTILENUMBER">06</MDI>
+        <MDI key="VERTICALTILENUMBER">06</MDI>
+        <MDI key="WESTBOUNDINGCOORDINATE">85.1343123120416</MDI>
+        <MDI key="_FillValue">0</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Description>the nights in clear-sky conditions and with validate LSTs</Description>
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">1</MDI>
+          <MDI key="STATISTICS_MAXIMUM">255</MDI>
+          <MDI key="STATISTICS_MEAN">189.04215708907</MDI>
+          <MDI key="STATISTICS_STDDEV">79.833875127638</MDI>
+          <MDI key="STATISTICS_VALID_PERCENT">89.04</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="MODIS_Grid_8Day_1km_LST:Day_view_angl">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="add_offset">-65</MDI>
+        <MDI key="add_offset_err">0</MDI>
+        <MDI key="ALGORITHMPACKAGENAME">MOD_PR11A2</MDI>
+        <MDI key="ALGORITHMPACKAGEVERSION">6</MDI>
+        <MDI key="ASSOCIATEDINSTRUMENTSHORTNAME.1">MODIS</MDI>
+        <MDI key="ASSOCIATEDPLATFORMSHORTNAME.1">Terra</MDI>
+        <MDI key="ASSOCIATEDSENSORSHORTNAME.1">MODIS</MDI>
+        <MDI key="AUTOMATICQUALITYFLAG.1">Passed</MDI>
+        <MDI key="AUTOMATICQUALITYFLAGEXPLANATION.1">No automatic quality assessment is performed in the PGE</MDI>
+        <MDI key="calibrated_nt">0</MDI>
+        <MDI key="CLOUD_CONTAMINATED_LST_SCREENED">NO</MDI>
+        <MDI key="DAYNIGHTFLAG">Both</MDI>
+        <MDI key="DESCRREVISION">6.1</MDI>
+        <MDI key="EASTBOUNDINGCOORDINATE">103.91821851307</MDI>
+        <MDI key="EXCLUSIONGRINGFLAG.1">N</MDI>
+        <MDI key="GRIDTYPE">Sinusoidal</MDI>
+        <MDI key="GRINGPOINTLATITUDE.1">29.9958333333333, 29.9958333333333, 20.0041666666667, 20.0041666666667</MDI>
+        <MDI key="GRINGPOINTLONGITUDE.1">92.3712326718087, 103.91821851307, 95.7766361029078, 85.1343123120416</MDI>
+        <MDI key="GRINGPOINTSEQUENCENO.1">1, 2, 3, 4</MDI>
+        <MDI key="HDFEOSVersion">HDFEOS_V2.19</MDI>
+        <MDI key="HORIZONTALTILENUMBER">26</MDI>
+        <MDI key="HORIZONTALTILENUMBER">26</MDI>
+        <MDI key="identifier_product_doi">10.5067/MODIS/MOD11A2.061</MDI>
+        <MDI key="identifier_product_doi">10.5067/MODIS/MOD11A2.061</MDI>
+        <MDI key="identifier_product_doi_authority">https://doi.org</MDI>
+        <MDI key="identifier_product_doi_authority">https://doi.org</MDI>
+        <MDI key="INPUTPOINTER">MOD11A1.A2024065.h26v06.061.2024066135108.hdf, MOD11A1.A2024066.h26v06.061.2024067120417.hdf, MOD11A1.A2024067.h26v06.061.2024068181916.hdf, MOD11A1.A2024068.h26v06.061.2024069095036.hdf, MOD11A1.A2024069.h26v06.061.2024070093813.hdf, MOD11A1.A2024070.h26v06.061.2024071093000.hdf, MOD11A1.A2024071.h26v06.061.2024073153352.hdf, MOD11A1.A2024072.h26v06.061.2024073235723.hdf</MDI>
+        <MDI key="INSTRUMENTNAME">Moderate-Resolution Imaging SpectroRadiometer</MDI>
+        <MDI key="LOCALGRANULEID">MOD11A2.A2024065.h26v06.061.2024074034334.hdf</MDI>
+        <MDI key="LOCALINPUTGRANULEID">Reserved for future use.</MDI>
+        <MDI key="LOCALVERSIONID">6.3.0</MDI>
+        <MDI key="LONGNAME">MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid</MDI>
+        <MDI key="long_name">Average view zenith angle of daytime Land-surface Temperature</MDI>
+        <MDI key="NORTHBOUNDINGCOORDINATE">29.9958333333333</MDI>
+        <MDI key="Number Type">uint8</MDI>
+        <MDI key="PARAMETERNAME.1">MOD 8-DAY 1KM L3 LST</MDI>
+        <MDI key="PGEVERSION">6.4.4</MDI>
+        <MDI key="PROCESSINGCENTER">MODAPS</MDI>
+        <MDI key="PROCESSINGDATETIME">2024-03-14T03:43:34.000Z</MDI>
+        <MDI key="PROCESSINGENVIRONMENT">Linux minion20226 5.4.0-1093-fips #103-Ubuntu SMP Thu Feb 8 14:02:37 UTC 2024 x86_64 x86_64 x86_64 GNU/Linux</MDI>
+        <MDI key="PRODUCTIONDATETIME">2024-03-14T03:43:34.000Z</MDI>
+        <MDI key="QAPERCENTCLOUDCOVER.1">1</MDI>
+        <MDI key="QAPERCENTGOODQUALITY">78</MDI>
+        <MDI key="QAPERCENTINTERPOLATEDDATA.1">0</MDI>
+        <MDI key="QAPERCENTMISSINGDATA.1">0</MDI>
+        <MDI key="QAPERCENTNOTPRODUCEDCLOUD">01</MDI>
+        <MDI key="QAPERCENTNOTPRODUCEDOTHER">10</MDI>
+        <MDI key="QAPERCENTOTHERQUALITY">12</MDI>
+        <MDI key="QAPERCENTOUTOFBOUNDSDATA.1">0</MDI>
+        <MDI key="RANGEBEGINNINGDATE">2024-03-05</MDI>
+        <MDI key="RANGEBEGINNINGTIME">00:00:00</MDI>
+        <MDI key="RANGEENDINGDATE">2024-03-12</MDI>
+        <MDI key="RANGEENDINGTIME">23:59:59</MDI>
+        <MDI key="REPROCESSINGACTUAL">reprocessed</MDI>
+        <MDI key="REPROCESSINGPLANNED">further update is anticipated</MDI>
+        <MDI key="scale_factor">1</MDI>
+        <MDI key="scale_factor_err">0</MDI>
+        <MDI key="SCIENCEQUALITYFLAG.1">Not Investigated</MDI>
+        <MDI key="SCIENCEQUALITYFLAGEXPLANATION.1">See http://landweb.nascom/nasa.gov/cgi-bin/QA_WWW/qaFlagPage.cgi?sat=terra&amp;ver=C6 the product Science Quality status.</MDI>
+        <MDI key="SHORTNAME">MOD11A2</MDI>
+        <MDI key="SOUTHBOUNDINGCOORDINATE">20.0041666666667</MDI>
+        <MDI key="SPSOPARAMETERS">2484 and 3323</MDI>
+        <MDI key="TileID">51026006</MDI>
+        <MDI key="units">deg</MDI>
+        <MDI key="valid_range">0, 130</MDI>
+        <MDI key="VERSIONID">61</MDI>
+        <MDI key="VERTICALTILENUMBER">06</MDI>
+        <MDI key="VERTICALTILENUMBER">06</MDI>
+        <MDI key="View_angle">View_angle data * scale_factor + add_offset</MDI>
+        <MDI key="WESTBOUNDINGCOORDINATE">85.1343123120416</MDI>
+        <MDI key="_FillValue">255</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Description>Average view zenith angle of daytime Land-surface Temperature</Description>
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0</MDI>
+          <MDI key="STATISTICS_MAXIMUM">129</MDI>
+          <MDI key="STATISTICS_MEAN">68.09229195862</MDI>
+          <MDI key="STATISTICS_STDDEV">11.104947704946</MDI>
+          <MDI key="STATISTICS_VALID_PERCENT">90.04</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="MODIS_Grid_8Day_1km_LST:Day_view_time">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="add_offset">0</MDI>
+        <MDI key="add_offset_err">0</MDI>
+        <MDI key="ALGORITHMPACKAGENAME">MOD_PR11A2</MDI>
+        <MDI key="ALGORITHMPACKAGEVERSION">6</MDI>
+        <MDI key="ASSOCIATEDINSTRUMENTSHORTNAME.1">MODIS</MDI>
+        <MDI key="ASSOCIATEDPLATFORMSHORTNAME.1">Terra</MDI>
+        <MDI key="ASSOCIATEDSENSORSHORTNAME.1">MODIS</MDI>
+        <MDI key="AUTOMATICQUALITYFLAG.1">Passed</MDI>
+        <MDI key="AUTOMATICQUALITYFLAGEXPLANATION.1">No automatic quality assessment is performed in the PGE</MDI>
+        <MDI key="calibrated_nt">0</MDI>
+        <MDI key="CLOUD_CONTAMINATED_LST_SCREENED">NO</MDI>
+        <MDI key="DAYNIGHTFLAG">Both</MDI>
+        <MDI key="DESCRREVISION">6.1</MDI>
+        <MDI key="EASTBOUNDINGCOORDINATE">103.91821851307</MDI>
+        <MDI key="EXCLUSIONGRINGFLAG.1">N</MDI>
+        <MDI key="GRIDTYPE">Sinusoidal</MDI>
+        <MDI key="GRINGPOINTLATITUDE.1">29.9958333333333, 29.9958333333333, 20.0041666666667, 20.0041666666667</MDI>
+        <MDI key="GRINGPOINTLONGITUDE.1">92.3712326718087, 103.91821851307, 95.7766361029078, 85.1343123120416</MDI>
+        <MDI key="GRINGPOINTSEQUENCENO.1">1, 2, 3, 4</MDI>
+        <MDI key="HDFEOSVersion">HDFEOS_V2.19</MDI>
+        <MDI key="HORIZONTALTILENUMBER">26</MDI>
+        <MDI key="HORIZONTALTILENUMBER">26</MDI>
+        <MDI key="identifier_product_doi">10.5067/MODIS/MOD11A2.061</MDI>
+        <MDI key="identifier_product_doi">10.5067/MODIS/MOD11A2.061</MDI>
+        <MDI key="identifier_product_doi_authority">https://doi.org</MDI>
+        <MDI key="identifier_product_doi_authority">https://doi.org</MDI>
+        <MDI key="INPUTPOINTER">MOD11A1.A2024065.h26v06.061.2024066135108.hdf, MOD11A1.A2024066.h26v06.061.2024067120417.hdf, MOD11A1.A2024067.h26v06.061.2024068181916.hdf, MOD11A1.A2024068.h26v06.061.2024069095036.hdf, MOD11A1.A2024069.h26v06.061.2024070093813.hdf, MOD11A1.A2024070.h26v06.061.2024071093000.hdf, MOD11A1.A2024071.h26v06.061.2024073153352.hdf, MOD11A1.A2024072.h26v06.061.2024073235723.hdf</MDI>
+        <MDI key="INSTRUMENTNAME">Moderate-Resolution Imaging SpectroRadiometer</MDI>
+        <MDI key="LOCALGRANULEID">MOD11A2.A2024065.h26v06.061.2024074034334.hdf</MDI>
+        <MDI key="LOCALINPUTGRANULEID">Reserved for future use.</MDI>
+        <MDI key="LOCALVERSIONID">6.3.0</MDI>
+        <MDI key="LONGNAME">MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid</MDI>
+        <MDI key="long_name">Average time of daytime Land-surface Temperature observation</MDI>
+        <MDI key="NORTHBOUNDINGCOORDINATE">29.9958333333333</MDI>
+        <MDI key="Number Type">uint8</MDI>
+        <MDI key="PARAMETERNAME.1">MOD 8-DAY 1KM L3 LST</MDI>
+        <MDI key="PGEVERSION">6.4.4</MDI>
+        <MDI key="PROCESSINGCENTER">MODAPS</MDI>
+        <MDI key="PROCESSINGDATETIME">2024-03-14T03:43:34.000Z</MDI>
+        <MDI key="PROCESSINGENVIRONMENT">Linux minion20226 5.4.0-1093-fips #103-Ubuntu SMP Thu Feb 8 14:02:37 UTC 2024 x86_64 x86_64 x86_64 GNU/Linux</MDI>
+        <MDI key="PRODUCTIONDATETIME">2024-03-14T03:43:34.000Z</MDI>
+        <MDI key="QAPERCENTCLOUDCOVER.1">1</MDI>
+        <MDI key="QAPERCENTGOODQUALITY">78</MDI>
+        <MDI key="QAPERCENTINTERPOLATEDDATA.1">0</MDI>
+        <MDI key="QAPERCENTMISSINGDATA.1">0</MDI>
+        <MDI key="QAPERCENTNOTPRODUCEDCLOUD">01</MDI>
+        <MDI key="QAPERCENTNOTPRODUCEDOTHER">10</MDI>
+        <MDI key="QAPERCENTOTHERQUALITY">12</MDI>
+        <MDI key="QAPERCENTOUTOFBOUNDSDATA.1">0</MDI>
+        <MDI key="RANGEBEGINNINGDATE">2024-03-05</MDI>
+        <MDI key="RANGEBEGINNINGTIME">00:00:00</MDI>
+        <MDI key="RANGEENDINGDATE">2024-03-12</MDI>
+        <MDI key="RANGEENDINGTIME">23:59:59</MDI>
+        <MDI key="REPROCESSINGACTUAL">reprocessed</MDI>
+        <MDI key="REPROCESSINGPLANNED">further update is anticipated</MDI>
+        <MDI key="scale_factor">0.1</MDI>
+        <MDI key="scale_factor_err">0</MDI>
+        <MDI key="SCIENCEQUALITYFLAG.1">Not Investigated</MDI>
+        <MDI key="SCIENCEQUALITYFLAGEXPLANATION.1">See http://landweb.nascom/nasa.gov/cgi-bin/QA_WWW/qaFlagPage.cgi?sat=terra&amp;ver=C6 the product Science Quality status.</MDI>
+        <MDI key="SHORTNAME">MOD11A2</MDI>
+        <MDI key="SOUTHBOUNDINGCOORDINATE">20.0041666666667</MDI>
+        <MDI key="SPSOPARAMETERS">2484 and 3323</MDI>
+        <MDI key="TileID">51026006</MDI>
+        <MDI key="units">hrs</MDI>
+        <MDI key="valid_range">0, 240</MDI>
+        <MDI key="VERSIONID">61</MDI>
+        <MDI key="VERTICALTILENUMBER">06</MDI>
+        <MDI key="VERTICALTILENUMBER">06</MDI>
+        <MDI key="View_time">View_time data * scale_factor</MDI>
+        <MDI key="WESTBOUNDINGCOORDINATE">85.1343123120416</MDI>
+        <MDI key="_FillValue">255</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Description>Average time of daytime Land-surface Temperature observation</Description>
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">94</MDI>
+          <MDI key="STATISTICS_MAXIMUM">110</MDI>
+          <MDI key="STATISTICS_MEAN">101.82042926743</MDI>
+          <MDI key="STATISTICS_STDDEV">1.2097063324096</MDI>
+          <MDI key="STATISTICS_VALID_PERCENT">90.04</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="MODIS_Grid_8Day_1km_LST:Emis_31">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="add_offset">0.49</MDI>
+        <MDI key="add_offset_err">0</MDI>
+        <MDI key="ALGORITHMPACKAGENAME">MOD_PR11A2</MDI>
+        <MDI key="ALGORITHMPACKAGEVERSION">6</MDI>
+        <MDI key="ASSOCIATEDINSTRUMENTSHORTNAME.1">MODIS</MDI>
+        <MDI key="ASSOCIATEDPLATFORMSHORTNAME.1">Terra</MDI>
+        <MDI key="ASSOCIATEDSENSORSHORTNAME.1">MODIS</MDI>
+        <MDI key="AUTOMATICQUALITYFLAG.1">Passed</MDI>
+        <MDI key="AUTOMATICQUALITYFLAGEXPLANATION.1">No automatic quality assessment is performed in the PGE</MDI>
+        <MDI key="calibrated_nt">0</MDI>
+        <MDI key="CLOUD_CONTAMINATED_LST_SCREENED">NO</MDI>
+        <MDI key="DAYNIGHTFLAG">Both</MDI>
+        <MDI key="DESCRREVISION">6.1</MDI>
+        <MDI key="EASTBOUNDINGCOORDINATE">103.91821851307</MDI>
+        <MDI key="Emis_31">Emis_31 data * scale_factor + add_offset</MDI>
+        <MDI key="EXCLUSIONGRINGFLAG.1">N</MDI>
+        <MDI key="GRIDTYPE">Sinusoidal</MDI>
+        <MDI key="GRINGPOINTLATITUDE.1">29.9958333333333, 29.9958333333333, 20.0041666666667, 20.0041666666667</MDI>
+        <MDI key="GRINGPOINTLONGITUDE.1">92.3712326718087, 103.91821851307, 95.7766361029078, 85.1343123120416</MDI>
+        <MDI key="GRINGPOINTSEQUENCENO.1">1, 2, 3, 4</MDI>
+        <MDI key="HDFEOSVersion">HDFEOS_V2.19</MDI>
+        <MDI key="HORIZONTALTILENUMBER">26</MDI>
+        <MDI key="HORIZONTALTILENUMBER">26</MDI>
+        <MDI key="identifier_product_doi">10.5067/MODIS/MOD11A2.061</MDI>
+        <MDI key="identifier_product_doi">10.5067/MODIS/MOD11A2.061</MDI>
+        <MDI key="identifier_product_doi_authority">https://doi.org</MDI>
+        <MDI key="identifier_product_doi_authority">https://doi.org</MDI>
+        <MDI key="INPUTPOINTER">MOD11A1.A2024065.h26v06.061.2024066135108.hdf, MOD11A1.A2024066.h26v06.061.2024067120417.hdf, MOD11A1.A2024067.h26v06.061.2024068181916.hdf, MOD11A1.A2024068.h26v06.061.2024069095036.hdf, MOD11A1.A2024069.h26v06.061.2024070093813.hdf, MOD11A1.A2024070.h26v06.061.2024071093000.hdf, MOD11A1.A2024071.h26v06.061.2024073153352.hdf, MOD11A1.A2024072.h26v06.061.2024073235723.hdf</MDI>
+        <MDI key="INSTRUMENTNAME">Moderate-Resolution Imaging SpectroRadiometer</MDI>
+        <MDI key="LOCALGRANULEID">MOD11A2.A2024065.h26v06.061.2024074034334.hdf</MDI>
+        <MDI key="LOCALINPUTGRANULEID">Reserved for future use.</MDI>
+        <MDI key="LOCALVERSIONID">6.3.0</MDI>
+        <MDI key="LONGNAME">MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid</MDI>
+        <MDI key="long_name">Band 31 emissivity</MDI>
+        <MDI key="NORTHBOUNDINGCOORDINATE">29.9958333333333</MDI>
+        <MDI key="Number Type">uint8</MDI>
+        <MDI key="PARAMETERNAME.1">MOD 8-DAY 1KM L3 LST</MDI>
+        <MDI key="PGEVERSION">6.4.4</MDI>
+        <MDI key="PROCESSINGCENTER">MODAPS</MDI>
+        <MDI key="PROCESSINGDATETIME">2024-03-14T03:43:34.000Z</MDI>
+        <MDI key="PROCESSINGENVIRONMENT">Linux minion20226 5.4.0-1093-fips #103-Ubuntu SMP Thu Feb 8 14:02:37 UTC 2024 x86_64 x86_64 x86_64 GNU/Linux</MDI>
+        <MDI key="PRODUCTIONDATETIME">2024-03-14T03:43:34.000Z</MDI>
+        <MDI key="QAPERCENTCLOUDCOVER.1">1</MDI>
+        <MDI key="QAPERCENTGOODQUALITY">78</MDI>
+        <MDI key="QAPERCENTINTERPOLATEDDATA.1">0</MDI>
+        <MDI key="QAPERCENTMISSINGDATA.1">0</MDI>
+        <MDI key="QAPERCENTNOTPRODUCEDCLOUD">01</MDI>
+        <MDI key="QAPERCENTNOTPRODUCEDOTHER">10</MDI>
+        <MDI key="QAPERCENTOTHERQUALITY">12</MDI>
+        <MDI key="QAPERCENTOUTOFBOUNDSDATA.1">0</MDI>
+        <MDI key="RANGEBEGINNINGDATE">2024-03-05</MDI>
+        <MDI key="RANGEBEGINNINGTIME">00:00:00</MDI>
+        <MDI key="RANGEENDINGDATE">2024-03-12</MDI>
+        <MDI key="RANGEENDINGTIME">23:59:59</MDI>
+        <MDI key="REPROCESSINGACTUAL">reprocessed</MDI>
+        <MDI key="REPROCESSINGPLANNED">further update is anticipated</MDI>
+        <MDI key="scale_factor">0.002</MDI>
+        <MDI key="scale_factor_err">0</MDI>
+        <MDI key="SCIENCEQUALITYFLAG.1">Not Investigated</MDI>
+        <MDI key="SCIENCEQUALITYFLAGEXPLANATION.1">See http://landweb.nascom/nasa.gov/cgi-bin/QA_WWW/qaFlagPage.cgi?sat=terra&amp;ver=C6 the product Science Quality status.</MDI>
+        <MDI key="SHORTNAME">MOD11A2</MDI>
+        <MDI key="SOUTHBOUNDINGCOORDINATE">20.0041666666667</MDI>
+        <MDI key="SPSOPARAMETERS">2484 and 3323</MDI>
+        <MDI key="TileID">51026006</MDI>
+        <MDI key="valid_range">1, 255</MDI>
+        <MDI key="VERSIONID">61</MDI>
+        <MDI key="VERTICALTILENUMBER">06</MDI>
+        <MDI key="VERTICALTILENUMBER">06</MDI>
+        <MDI key="WESTBOUNDINGCOORDINATE">85.1343123120416</MDI>
+        <MDI key="_FillValue">0</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Description>Band 31 emissivity</Description>
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">239</MDI>
+          <MDI key="STATISTICS_MAXIMUM">252</MDI>
+          <MDI key="STATISTICS_MEAN">246.32137159059</MDI>
+          <MDI key="STATISTICS_STDDEV">1.0406917586366</MDI>
+          <MDI key="STATISTICS_VALID_PERCENT">90.23</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="MODIS_Grid_8Day_1km_LST:Emis_32">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="add_offset">0.49</MDI>
+        <MDI key="add_offset_err">0</MDI>
+        <MDI key="ALGORITHMPACKAGENAME">MOD_PR11A2</MDI>
+        <MDI key="ALGORITHMPACKAGEVERSION">6</MDI>
+        <MDI key="ASSOCIATEDINSTRUMENTSHORTNAME.1">MODIS</MDI>
+        <MDI key="ASSOCIATEDPLATFORMSHORTNAME.1">Terra</MDI>
+        <MDI key="ASSOCIATEDSENSORSHORTNAME.1">MODIS</MDI>
+        <MDI key="AUTOMATICQUALITYFLAG.1">Passed</MDI>
+        <MDI key="AUTOMATICQUALITYFLAGEXPLANATION.1">No automatic quality assessment is performed in the PGE</MDI>
+        <MDI key="calibrated_nt">0</MDI>
+        <MDI key="CLOUD_CONTAMINATED_LST_SCREENED">NO</MDI>
+        <MDI key="DAYNIGHTFLAG">Both</MDI>
+        <MDI key="DESCRREVISION">6.1</MDI>
+        <MDI key="EASTBOUNDINGCOORDINATE">103.91821851307</MDI>
+        <MDI key="Emis_32">Emis_32 data * scale_factor + add_offset</MDI>
+        <MDI key="EXCLUSIONGRINGFLAG.1">N</MDI>
+        <MDI key="GRIDTYPE">Sinusoidal</MDI>
+        <MDI key="GRINGPOINTLATITUDE.1">29.9958333333333, 29.9958333333333, 20.0041666666667, 20.0041666666667</MDI>
+        <MDI key="GRINGPOINTLONGITUDE.1">92.3712326718087, 103.91821851307, 95.7766361029078, 85.1343123120416</MDI>
+        <MDI key="GRINGPOINTSEQUENCENO.1">1, 2, 3, 4</MDI>
+        <MDI key="HDFEOSVersion">HDFEOS_V2.19</MDI>
+        <MDI key="HORIZONTALTILENUMBER">26</MDI>
+        <MDI key="HORIZONTALTILENUMBER">26</MDI>
+        <MDI key="identifier_product_doi">10.5067/MODIS/MOD11A2.061</MDI>
+        <MDI key="identifier_product_doi">10.5067/MODIS/MOD11A2.061</MDI>
+        <MDI key="identifier_product_doi_authority">https://doi.org</MDI>
+        <MDI key="identifier_product_doi_authority">https://doi.org</MDI>
+        <MDI key="INPUTPOINTER">MOD11A1.A2024065.h26v06.061.2024066135108.hdf, MOD11A1.A2024066.h26v06.061.2024067120417.hdf, MOD11A1.A2024067.h26v06.061.2024068181916.hdf, MOD11A1.A2024068.h26v06.061.2024069095036.hdf, MOD11A1.A2024069.h26v06.061.2024070093813.hdf, MOD11A1.A2024070.h26v06.061.2024071093000.hdf, MOD11A1.A2024071.h26v06.061.2024073153352.hdf, MOD11A1.A2024072.h26v06.061.2024073235723.hdf</MDI>
+        <MDI key="INSTRUMENTNAME">Moderate-Resolution Imaging SpectroRadiometer</MDI>
+        <MDI key="LOCALGRANULEID">MOD11A2.A2024065.h26v06.061.2024074034334.hdf</MDI>
+        <MDI key="LOCALINPUTGRANULEID">Reserved for future use.</MDI>
+        <MDI key="LOCALVERSIONID">6.3.0</MDI>
+        <MDI key="LONGNAME">MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid</MDI>
+        <MDI key="long_name">Band 32 emissivity</MDI>
+        <MDI key="NORTHBOUNDINGCOORDINATE">29.9958333333333</MDI>
+        <MDI key="Number Type">uint8</MDI>
+        <MDI key="PARAMETERNAME.1">MOD 8-DAY 1KM L3 LST</MDI>
+        <MDI key="PGEVERSION">6.4.4</MDI>
+        <MDI key="PROCESSINGCENTER">MODAPS</MDI>
+        <MDI key="PROCESSINGDATETIME">2024-03-14T03:43:34.000Z</MDI>
+        <MDI key="PROCESSINGENVIRONMENT">Linux minion20226 5.4.0-1093-fips #103-Ubuntu SMP Thu Feb 8 14:02:37 UTC 2024 x86_64 x86_64 x86_64 GNU/Linux</MDI>
+        <MDI key="PRODUCTIONDATETIME">2024-03-14T03:43:34.000Z</MDI>
+        <MDI key="QAPERCENTCLOUDCOVER.1">1</MDI>
+        <MDI key="QAPERCENTGOODQUALITY">78</MDI>
+        <MDI key="QAPERCENTINTERPOLATEDDATA.1">0</MDI>
+        <MDI key="QAPERCENTMISSINGDATA.1">0</MDI>
+        <MDI key="QAPERCENTNOTPRODUCEDCLOUD">01</MDI>
+        <MDI key="QAPERCENTNOTPRODUCEDOTHER">10</MDI>
+        <MDI key="QAPERCENTOTHERQUALITY">12</MDI>
+        <MDI key="QAPERCENTOUTOFBOUNDSDATA.1">0</MDI>
+        <MDI key="RANGEBEGINNINGDATE">2024-03-05</MDI>
+        <MDI key="RANGEBEGINNINGTIME">00:00:00</MDI>
+        <MDI key="RANGEENDINGDATE">2024-03-12</MDI>
+        <MDI key="RANGEENDINGTIME">23:59:59</MDI>
+        <MDI key="REPROCESSINGACTUAL">reprocessed</MDI>
+        <MDI key="REPROCESSINGPLANNED">further update is anticipated</MDI>
+        <MDI key="scale_factor">0.002</MDI>
+        <MDI key="scale_factor_err">0</MDI>
+        <MDI key="SCIENCEQUALITYFLAG.1">Not Investigated</MDI>
+        <MDI key="SCIENCEQUALITYFLAGEXPLANATION.1">See http://landweb.nascom/nasa.gov/cgi-bin/QA_WWW/qaFlagPage.cgi?sat=terra&amp;ver=C6 the product Science Quality status.</MDI>
+        <MDI key="SHORTNAME">MOD11A2</MDI>
+        <MDI key="SOUTHBOUNDINGCOORDINATE">20.0041666666667</MDI>
+        <MDI key="SPSOPARAMETERS">2484 and 3323</MDI>
+        <MDI key="TileID">51026006</MDI>
+        <MDI key="valid_range">1, 255</MDI>
+        <MDI key="VERSIONID">61</MDI>
+        <MDI key="VERTICALTILENUMBER">06</MDI>
+        <MDI key="VERTICALTILENUMBER">06</MDI>
+        <MDI key="WESTBOUNDINGCOORDINATE">85.1343123120416</MDI>
+        <MDI key="_FillValue">0</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Description>Band 32 emissivity</Description>
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">241</MDI>
+          <MDI key="STATISTICS_MAXIMUM">250</MDI>
+          <MDI key="STATISTICS_MEAN">247.59097720404</MDI>
+          <MDI key="STATISTICS_STDDEV">0.7393452323781</MDI>
+          <MDI key="STATISTICS_VALID_PERCENT">90.23</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="MODIS_Grid_8Day_1km_LST:Night_view_angl">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="add_offset">-65</MDI>
+        <MDI key="add_offset_err">0</MDI>
+        <MDI key="ALGORITHMPACKAGENAME">MOD_PR11A2</MDI>
+        <MDI key="ALGORITHMPACKAGEVERSION">6</MDI>
+        <MDI key="ASSOCIATEDINSTRUMENTSHORTNAME.1">MODIS</MDI>
+        <MDI key="ASSOCIATEDPLATFORMSHORTNAME.1">Terra</MDI>
+        <MDI key="ASSOCIATEDSENSORSHORTNAME.1">MODIS</MDI>
+        <MDI key="AUTOMATICQUALITYFLAG.1">Passed</MDI>
+        <MDI key="AUTOMATICQUALITYFLAGEXPLANATION.1">No automatic quality assessment is performed in the PGE</MDI>
+        <MDI key="calibrated_nt">0</MDI>
+        <MDI key="CLOUD_CONTAMINATED_LST_SCREENED">NO</MDI>
+        <MDI key="DAYNIGHTFLAG">Both</MDI>
+        <MDI key="DESCRREVISION">6.1</MDI>
+        <MDI key="EASTBOUNDINGCOORDINATE">103.91821851307</MDI>
+        <MDI key="EXCLUSIONGRINGFLAG.1">N</MDI>
+        <MDI key="GRIDTYPE">Sinusoidal</MDI>
+        <MDI key="GRINGPOINTLATITUDE.1">29.9958333333333, 29.9958333333333, 20.0041666666667, 20.0041666666667</MDI>
+        <MDI key="GRINGPOINTLONGITUDE.1">92.3712326718087, 103.91821851307, 95.7766361029078, 85.1343123120416</MDI>
+        <MDI key="GRINGPOINTSEQUENCENO.1">1, 2, 3, 4</MDI>
+        <MDI key="HDFEOSVersion">HDFEOS_V2.19</MDI>
+        <MDI key="HORIZONTALTILENUMBER">26</MDI>
+        <MDI key="HORIZONTALTILENUMBER">26</MDI>
+        <MDI key="identifier_product_doi">10.5067/MODIS/MOD11A2.061</MDI>
+        <MDI key="identifier_product_doi">10.5067/MODIS/MOD11A2.061</MDI>
+        <MDI key="identifier_product_doi_authority">https://doi.org</MDI>
+        <MDI key="identifier_product_doi_authority">https://doi.org</MDI>
+        <MDI key="INPUTPOINTER">MOD11A1.A2024065.h26v06.061.2024066135108.hdf, MOD11A1.A2024066.h26v06.061.2024067120417.hdf, MOD11A1.A2024067.h26v06.061.2024068181916.hdf, MOD11A1.A2024068.h26v06.061.2024069095036.hdf, MOD11A1.A2024069.h26v06.061.2024070093813.hdf, MOD11A1.A2024070.h26v06.061.2024071093000.hdf, MOD11A1.A2024071.h26v06.061.2024073153352.hdf, MOD11A1.A2024072.h26v06.061.2024073235723.hdf</MDI>
+        <MDI key="INSTRUMENTNAME">Moderate-Resolution Imaging SpectroRadiometer</MDI>
+        <MDI key="LOCALGRANULEID">MOD11A2.A2024065.h26v06.061.2024074034334.hdf</MDI>
+        <MDI key="LOCALINPUTGRANULEID">Reserved for future use.</MDI>
+        <MDI key="LOCALVERSIONID">6.3.0</MDI>
+        <MDI key="LONGNAME">MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid</MDI>
+        <MDI key="long_name">Average view zenith angle of nighttime Land-surface Temperature</MDI>
+        <MDI key="NORTHBOUNDINGCOORDINATE">29.9958333333333</MDI>
+        <MDI key="Number Type">uint8</MDI>
+        <MDI key="PARAMETERNAME.1">MOD 8-DAY 1KM L3 LST</MDI>
+        <MDI key="PGEVERSION">6.4.4</MDI>
+        <MDI key="PROCESSINGCENTER">MODAPS</MDI>
+        <MDI key="PROCESSINGDATETIME">2024-03-14T03:43:34.000Z</MDI>
+        <MDI key="PROCESSINGENVIRONMENT">Linux minion20226 5.4.0-1093-fips #103-Ubuntu SMP Thu Feb 8 14:02:37 UTC 2024 x86_64 x86_64 x86_64 GNU/Linux</MDI>
+        <MDI key="PRODUCTIONDATETIME">2024-03-14T03:43:34.000Z</MDI>
+        <MDI key="QAPERCENTCLOUDCOVER.1">1</MDI>
+        <MDI key="QAPERCENTGOODQUALITY">78</MDI>
+        <MDI key="QAPERCENTINTERPOLATEDDATA.1">0</MDI>
+        <MDI key="QAPERCENTMISSINGDATA.1">0</MDI>
+        <MDI key="QAPERCENTNOTPRODUCEDCLOUD">01</MDI>
+        <MDI key="QAPERCENTNOTPRODUCEDOTHER">10</MDI>
+        <MDI key="QAPERCENTOTHERQUALITY">12</MDI>
+        <MDI key="QAPERCENTOUTOFBOUNDSDATA.1">0</MDI>
+        <MDI key="RANGEBEGINNINGDATE">2024-03-05</MDI>
+        <MDI key="RANGEBEGINNINGTIME">00:00:00</MDI>
+        <MDI key="RANGEENDINGDATE">2024-03-12</MDI>
+        <MDI key="RANGEENDINGTIME">23:59:59</MDI>
+        <MDI key="REPROCESSINGACTUAL">reprocessed</MDI>
+        <MDI key="REPROCESSINGPLANNED">further update is anticipated</MDI>
+        <MDI key="scale_factor">1</MDI>
+        <MDI key="scale_factor_err">0</MDI>
+        <MDI key="SCIENCEQUALITYFLAG.1">Not Investigated</MDI>
+        <MDI key="SCIENCEQUALITYFLAGEXPLANATION.1">See http://landweb.nascom/nasa.gov/cgi-bin/QA_WWW/qaFlagPage.cgi?sat=terra&amp;ver=C6 the product Science Quality status.</MDI>
+        <MDI key="SHORTNAME">MOD11A2</MDI>
+        <MDI key="SOUTHBOUNDINGCOORDINATE">20.0041666666667</MDI>
+        <MDI key="SPSOPARAMETERS">2484 and 3323</MDI>
+        <MDI key="TileID">51026006</MDI>
+        <MDI key="units">deg</MDI>
+        <MDI key="valid_range">0, 130</MDI>
+        <MDI key="VERSIONID">61</MDI>
+        <MDI key="VERTICALTILENUMBER">06</MDI>
+        <MDI key="VERTICALTILENUMBER">06</MDI>
+        <MDI key="View_angle">View_angle data * scale_factor + add_offset</MDI>
+        <MDI key="WESTBOUNDINGCOORDINATE">85.1343123120416</MDI>
+        <MDI key="_FillValue">255</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Description>Average view zenith angle of nighttime Land-surface Temperature</Description>
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0</MDI>
+          <MDI key="STATISTICS_MAXIMUM">130</MDI>
+          <MDI key="STATISTICS_MEAN">67.916698902223</MDI>
+          <MDI key="STATISTICS_STDDEV">11.523585754424</MDI>
+          <MDI key="STATISTICS_VALID_PERCENT">89.04</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="MODIS_Grid_8Day_1km_LST:Night_view_time">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="add_offset">0</MDI>
+        <MDI key="add_offset_err">0</MDI>
+        <MDI key="ALGORITHMPACKAGENAME">MOD_PR11A2</MDI>
+        <MDI key="ALGORITHMPACKAGEVERSION">6</MDI>
+        <MDI key="ASSOCIATEDINSTRUMENTSHORTNAME.1">MODIS</MDI>
+        <MDI key="ASSOCIATEDPLATFORMSHORTNAME.1">Terra</MDI>
+        <MDI key="ASSOCIATEDSENSORSHORTNAME.1">MODIS</MDI>
+        <MDI key="AUTOMATICQUALITYFLAG.1">Passed</MDI>
+        <MDI key="AUTOMATICQUALITYFLAGEXPLANATION.1">No automatic quality assessment is performed in the PGE</MDI>
+        <MDI key="calibrated_nt">0</MDI>
+        <MDI key="CLOUD_CONTAMINATED_LST_SCREENED">NO</MDI>
+        <MDI key="DAYNIGHTFLAG">Both</MDI>
+        <MDI key="DESCRREVISION">6.1</MDI>
+        <MDI key="EASTBOUNDINGCOORDINATE">103.91821851307</MDI>
+        <MDI key="EXCLUSIONGRINGFLAG.1">N</MDI>
+        <MDI key="GRIDTYPE">Sinusoidal</MDI>
+        <MDI key="GRINGPOINTLATITUDE.1">29.9958333333333, 29.9958333333333, 20.0041666666667, 20.0041666666667</MDI>
+        <MDI key="GRINGPOINTLONGITUDE.1">92.3712326718087, 103.91821851307, 95.7766361029078, 85.1343123120416</MDI>
+        <MDI key="GRINGPOINTSEQUENCENO.1">1, 2, 3, 4</MDI>
+        <MDI key="HDFEOSVersion">HDFEOS_V2.19</MDI>
+        <MDI key="HORIZONTALTILENUMBER">26</MDI>
+        <MDI key="HORIZONTALTILENUMBER">26</MDI>
+        <MDI key="identifier_product_doi">10.5067/MODIS/MOD11A2.061</MDI>
+        <MDI key="identifier_product_doi">10.5067/MODIS/MOD11A2.061</MDI>
+        <MDI key="identifier_product_doi_authority">https://doi.org</MDI>
+        <MDI key="identifier_product_doi_authority">https://doi.org</MDI>
+        <MDI key="INPUTPOINTER">MOD11A1.A2024065.h26v06.061.2024066135108.hdf, MOD11A1.A2024066.h26v06.061.2024067120417.hdf, MOD11A1.A2024067.h26v06.061.2024068181916.hdf, MOD11A1.A2024068.h26v06.061.2024069095036.hdf, MOD11A1.A2024069.h26v06.061.2024070093813.hdf, MOD11A1.A2024070.h26v06.061.2024071093000.hdf, MOD11A1.A2024071.h26v06.061.2024073153352.hdf, MOD11A1.A2024072.h26v06.061.2024073235723.hdf</MDI>
+        <MDI key="INSTRUMENTNAME">Moderate-Resolution Imaging SpectroRadiometer</MDI>
+        <MDI key="LOCALGRANULEID">MOD11A2.A2024065.h26v06.061.2024074034334.hdf</MDI>
+        <MDI key="LOCALINPUTGRANULEID">Reserved for future use.</MDI>
+        <MDI key="LOCALVERSIONID">6.3.0</MDI>
+        <MDI key="LONGNAME">MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid</MDI>
+        <MDI key="long_name">Average time of nighttime Land-surface Temperature observation</MDI>
+        <MDI key="NORTHBOUNDINGCOORDINATE">29.9958333333333</MDI>
+        <MDI key="Number Type">uint8</MDI>
+        <MDI key="PARAMETERNAME.1">MOD 8-DAY 1KM L3 LST</MDI>
+        <MDI key="PGEVERSION">6.4.4</MDI>
+        <MDI key="PROCESSINGCENTER">MODAPS</MDI>
+        <MDI key="PROCESSINGDATETIME">2024-03-14T03:43:34.000Z</MDI>
+        <MDI key="PROCESSINGENVIRONMENT">Linux minion20226 5.4.0-1093-fips #103-Ubuntu SMP Thu Feb 8 14:02:37 UTC 2024 x86_64 x86_64 x86_64 GNU/Linux</MDI>
+        <MDI key="PRODUCTIONDATETIME">2024-03-14T03:43:34.000Z</MDI>
+        <MDI key="QAPERCENTCLOUDCOVER.1">1</MDI>
+        <MDI key="QAPERCENTGOODQUALITY">78</MDI>
+        <MDI key="QAPERCENTINTERPOLATEDDATA.1">0</MDI>
+        <MDI key="QAPERCENTMISSINGDATA.1">0</MDI>
+        <MDI key="QAPERCENTNOTPRODUCEDCLOUD">01</MDI>
+        <MDI key="QAPERCENTNOTPRODUCEDOTHER">10</MDI>
+        <MDI key="QAPERCENTOTHERQUALITY">12</MDI>
+        <MDI key="QAPERCENTOUTOFBOUNDSDATA.1">0</MDI>
+        <MDI key="RANGEBEGINNINGDATE">2024-03-05</MDI>
+        <MDI key="RANGEBEGINNINGTIME">00:00:00</MDI>
+        <MDI key="RANGEENDINGDATE">2024-03-12</MDI>
+        <MDI key="RANGEENDINGTIME">23:59:59</MDI>
+        <MDI key="REPROCESSINGACTUAL">reprocessed</MDI>
+        <MDI key="REPROCESSINGPLANNED">further update is anticipated</MDI>
+        <MDI key="scale_factor">0.1</MDI>
+        <MDI key="scale_factor_err">0</MDI>
+        <MDI key="SCIENCEQUALITYFLAG.1">Not Investigated</MDI>
+        <MDI key="SCIENCEQUALITYFLAGEXPLANATION.1">See http://landweb.nascom/nasa.gov/cgi-bin/QA_WWW/qaFlagPage.cgi?sat=terra&amp;ver=C6 the product Science Quality status.</MDI>
+        <MDI key="SHORTNAME">MOD11A2</MDI>
+        <MDI key="SOUTHBOUNDINGCOORDINATE">20.0041666666667</MDI>
+        <MDI key="SPSOPARAMETERS">2484 and 3323</MDI>
+        <MDI key="TileID">51026006</MDI>
+        <MDI key="units">hrs</MDI>
+        <MDI key="valid_range">0, 240</MDI>
+        <MDI key="VERSIONID">61</MDI>
+        <MDI key="VERTICALTILENUMBER">06</MDI>
+        <MDI key="VERTICALTILENUMBER">06</MDI>
+        <MDI key="View_time">View_time data * scale_factor</MDI>
+        <MDI key="WESTBOUNDINGCOORDINATE">85.1343123120416</MDI>
+        <MDI key="_FillValue">255</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Description>Average time of nighttime Land-surface Temperature observation</Description>
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">208</MDI>
+          <MDI key="STATISTICS_MAXIMUM">224</MDI>
+          <MDI key="STATISTICS_MEAN">216.57778257845</MDI>
+          <MDI key="STATISTICS_STDDEV">1.1337525822261</MDI>
+          <MDI key="STATISTICS_VALID_PERCENT">89.04</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="MODIS_Grid_8Day_1km_LST:QC_Day">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="ALGORITHMPACKAGENAME">MOD_PR11A2</MDI>
+        <MDI key="ALGORITHMPACKAGEVERSION">6</MDI>
+        <MDI key="ASSOCIATEDINSTRUMENTSHORTNAME.1">MODIS</MDI>
+        <MDI key="ASSOCIATEDPLATFORMSHORTNAME.1">Terra</MDI>
+        <MDI key="ASSOCIATEDSENSORSHORTNAME.1">MODIS</MDI>
+        <MDI key="AUTOMATICQUALITYFLAG.1">Passed</MDI>
+        <MDI key="AUTOMATICQUALITYFLAGEXPLANATION.1">No automatic quality assessment is performed in the PGE</MDI>
+        <MDI key="CLOUD_CONTAMINATED_LST_SCREENED">NO</MDI>
+        <MDI key="DAYNIGHTFLAG">Both</MDI>
+        <MDI key="DESCRREVISION">6.1</MDI>
+        <MDI key="EASTBOUNDINGCOORDINATE">103.91821851307</MDI>
+        <MDI key="EXCLUSIONGRINGFLAG.1">N</MDI>
+        <MDI key="GRIDTYPE">Sinusoidal</MDI>
+        <MDI key="GRINGPOINTLATITUDE.1">29.9958333333333, 29.9958333333333, 20.0041666666667, 20.0041666666667</MDI>
+        <MDI key="GRINGPOINTLONGITUDE.1">92.3712326718087, 103.91821851307, 95.7766361029078, 85.1343123120416</MDI>
+        <MDI key="GRINGPOINTSEQUENCENO.1">1, 2, 3, 4</MDI>
+        <MDI key="HDFEOSVersion">HDFEOS_V2.19</MDI>
+        <MDI key="HORIZONTALTILENUMBER">26</MDI>
+        <MDI key="HORIZONTALTILENUMBER">26</MDI>
+        <MDI key="identifier_product_doi">10.5067/MODIS/MOD11A2.061</MDI>
+        <MDI key="identifier_product_doi">10.5067/MODIS/MOD11A2.061</MDI>
+        <MDI key="identifier_product_doi_authority">https://doi.org</MDI>
+        <MDI key="identifier_product_doi_authority">https://doi.org</MDI>
+        <MDI key="INPUTPOINTER">MOD11A1.A2024065.h26v06.061.2024066135108.hdf, MOD11A1.A2024066.h26v06.061.2024067120417.hdf, MOD11A1.A2024067.h26v06.061.2024068181916.hdf, MOD11A1.A2024068.h26v06.061.2024069095036.hdf, MOD11A1.A2024069.h26v06.061.2024070093813.hdf, MOD11A1.A2024070.h26v06.061.2024071093000.hdf, MOD11A1.A2024071.h26v06.061.2024073153352.hdf, MOD11A1.A2024072.h26v06.061.2024073235723.hdf</MDI>
+        <MDI key="INSTRUMENTNAME">Moderate-Resolution Imaging SpectroRadiometer</MDI>
+        <MDI key="LOCALGRANULEID">MOD11A2.A2024065.h26v06.061.2024074034334.hdf</MDI>
+        <MDI key="LOCALINPUTGRANULEID">Reserved for future use.</MDI>
+        <MDI key="LOCALVERSIONID">6.3.0</MDI>
+        <MDI key="LONGNAME">MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid</MDI>
+        <MDI key="long_name">Quality control for daytime LST and emissivity</MDI>
+        <MDI key="NORTHBOUNDINGCOORDINATE">29.9958333333333</MDI>
+        <MDI key="Number Type">uint8</MDI>
+        <MDI key="PARAMETERNAME.1">MOD 8-DAY 1KM L3 LST</MDI>
+        <MDI key="PGEVERSION">6.4.4</MDI>
+        <MDI key="PROCESSINGCENTER">MODAPS</MDI>
+        <MDI key="PROCESSINGDATETIME">2024-03-14T03:43:34.000Z</MDI>
+        <MDI key="PROCESSINGENVIRONMENT">Linux minion20226 5.4.0-1093-fips #103-Ubuntu SMP Thu Feb 8 14:02:37 UTC 2024 x86_64 x86_64 x86_64 GNU/Linux</MDI>
+        <MDI key="PRODUCTIONDATETIME">2024-03-14T03:43:34.000Z</MDI>
+        <MDI key="QAPERCENTCLOUDCOVER.1">1</MDI>
+        <MDI key="QAPERCENTGOODQUALITY">78</MDI>
+        <MDI key="QAPERCENTINTERPOLATEDDATA.1">0</MDI>
+        <MDI key="QAPERCENTMISSINGDATA.1">0</MDI>
+        <MDI key="QAPERCENTNOTPRODUCEDCLOUD">01</MDI>
+        <MDI key="QAPERCENTNOTPRODUCEDOTHER">10</MDI>
+        <MDI key="QAPERCENTOTHERQUALITY">12</MDI>
+        <MDI key="QAPERCENTOUTOFBOUNDSDATA.1">0</MDI>
+        <MDI key="RANGEBEGINNINGDATE">2024-03-05</MDI>
+        <MDI key="RANGEBEGINNINGTIME">00:00:00</MDI>
+        <MDI key="RANGEENDINGDATE">2024-03-12</MDI>
+        <MDI key="RANGEENDINGTIME">23:59:59</MDI>
+        <MDI key="REPROCESSINGACTUAL">reprocessed</MDI>
+        <MDI key="REPROCESSINGPLANNED">further update is anticipated</MDI>
+        <MDI key="SCIENCEQUALITYFLAG.1">Not Investigated</MDI>
+        <MDI key="SCIENCEQUALITYFLAGEXPLANATION.1">See http://landweb.nascom/nasa.gov/cgi-bin/QA_WWW/qaFlagPage.cgi?sat=terra&amp;ver=C6 the product Science Quality status.</MDI>
+        <MDI key="SHORTNAME">MOD11A2</MDI>
+        <MDI key="SOUTHBOUNDINGCOORDINATE">20.0041666666667</MDI>
+        <MDI key="SPSOPARAMETERS">2484 and 3323</MDI>
+        <MDI key="TileID">51026006</MDI>
+        <MDI key="valid_range">0, 255</MDI>
+        <MDI key="VERSIONID">61</MDI>
+        <MDI key="VERTICALTILENUMBER">06</MDI>
+        <MDI key="VERTICALTILENUMBER">06</MDI>
+        <MDI key="WESTBOUNDINGCOORDINATE">85.1343123120416</MDI>
+        <MDI key="_FillValue">NA</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Description>Quality control for daytime LST and emissivity</Description>
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">2</MDI>
+          <MDI key="STATISTICS_MAXIMUM">145</MDI>
+          <MDI key="STATISTICS_MEAN">27.800042507149</MDI>
+          <MDI key="STATISTICS_STDDEV">30.096821000887</MDI>
+          <MDI key="STATISTICS_VALID_PERCENT">17.97</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="MODIS_Grid_8Day_1km_LST:LST_Night_1km">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="add_offset">0</MDI>
+        <MDI key="add_offset_err">0</MDI>
+        <MDI key="ALGORITHMPACKAGENAME">MOD_PR11A2</MDI>
+        <MDI key="ALGORITHMPACKAGEVERSION">6</MDI>
+        <MDI key="ASSOCIATEDINSTRUMENTSHORTNAME.1">MODIS</MDI>
+        <MDI key="ASSOCIATEDPLATFORMSHORTNAME.1">Terra</MDI>
+        <MDI key="ASSOCIATEDSENSORSHORTNAME.1">MODIS</MDI>
+        <MDI key="AUTOMATICQUALITYFLAG.1">Passed</MDI>
+        <MDI key="AUTOMATICQUALITYFLAGEXPLANATION.1">No automatic quality assessment is performed in the PGE</MDI>
+        <MDI key="calibrated_nt">0</MDI>
+        <MDI key="CLOUD_CONTAMINATED_LST_SCREENED">NO</MDI>
+        <MDI key="DAYNIGHTFLAG">Both</MDI>
+        <MDI key="DESCRREVISION">6.1</MDI>
+        <MDI key="EASTBOUNDINGCOORDINATE">103.91821851307</MDI>
+        <MDI key="EXCLUSIONGRINGFLAG.1">N</MDI>
+        <MDI key="GRIDTYPE">Sinusoidal</MDI>
+        <MDI key="GRINGPOINTLATITUDE.1">29.9958333333333, 29.9958333333333, 20.0041666666667, 20.0041666666667</MDI>
+        <MDI key="GRINGPOINTLONGITUDE.1">92.3712326718087, 103.91821851307, 95.7766361029078, 85.1343123120416</MDI>
+        <MDI key="GRINGPOINTSEQUENCENO.1">1, 2, 3, 4</MDI>
+        <MDI key="HDFEOSVersion">HDFEOS_V2.19</MDI>
+        <MDI key="HORIZONTALTILENUMBER">26</MDI>
+        <MDI key="HORIZONTALTILENUMBER">26</MDI>
+        <MDI key="identifier_product_doi">10.5067/MODIS/MOD11A2.061</MDI>
+        <MDI key="identifier_product_doi">10.5067/MODIS/MOD11A2.061</MDI>
+        <MDI key="identifier_product_doi_authority">https://doi.org</MDI>
+        <MDI key="identifier_product_doi_authority">https://doi.org</MDI>
+        <MDI key="INPUTPOINTER">MOD11A1.A2024065.h26v06.061.2024066135108.hdf, MOD11A1.A2024066.h26v06.061.2024067120417.hdf, MOD11A1.A2024067.h26v06.061.2024068181916.hdf, MOD11A1.A2024068.h26v06.061.2024069095036.hdf, MOD11A1.A2024069.h26v06.061.2024070093813.hdf, MOD11A1.A2024070.h26v06.061.2024071093000.hdf, MOD11A1.A2024071.h26v06.061.2024073153352.hdf, MOD11A1.A2024072.h26v06.061.2024073235723.hdf</MDI>
+        <MDI key="INSTRUMENTNAME">Moderate-Resolution Imaging SpectroRadiometer</MDI>
+        <MDI key="LOCALGRANULEID">MOD11A2.A2024065.h26v06.061.2024074034334.hdf</MDI>
+        <MDI key="LOCALINPUTGRANULEID">Reserved for future use.</MDI>
+        <MDI key="LOCALVERSIONID">6.3.0</MDI>
+        <MDI key="LONGNAME">MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid</MDI>
+        <MDI key="long_name">8-day nighttime 1km grid Land-surface Temperature</MDI>
+        <MDI key="LST">LST data * scale_factor</MDI>
+        <MDI key="NORTHBOUNDINGCOORDINATE">29.9958333333333</MDI>
+        <MDI key="Number Type">uint16</MDI>
+        <MDI key="PARAMETERNAME.1">MOD 8-DAY 1KM L3 LST</MDI>
+        <MDI key="PGEVERSION">6.4.4</MDI>
+        <MDI key="PROCESSINGCENTER">MODAPS</MDI>
+        <MDI key="PROCESSINGDATETIME">2024-03-14T03:43:34.000Z</MDI>
+        <MDI key="PROCESSINGENVIRONMENT">Linux minion20226 5.4.0-1093-fips #103-Ubuntu SMP Thu Feb 8 14:02:37 UTC 2024 x86_64 x86_64 x86_64 GNU/Linux</MDI>
+        <MDI key="PRODUCTIONDATETIME">2024-03-14T03:43:34.000Z</MDI>
+        <MDI key="QAPERCENTCLOUDCOVER.1">1</MDI>
+        <MDI key="QAPERCENTGOODQUALITY">78</MDI>
+        <MDI key="QAPERCENTINTERPOLATEDDATA.1">0</MDI>
+        <MDI key="QAPERCENTMISSINGDATA.1">0</MDI>
+        <MDI key="QAPERCENTNOTPRODUCEDCLOUD">01</MDI>
+        <MDI key="QAPERCENTNOTPRODUCEDOTHER">10</MDI>
+        <MDI key="QAPERCENTOTHERQUALITY">12</MDI>
+        <MDI key="QAPERCENTOUTOFBOUNDSDATA.1">0</MDI>
+        <MDI key="RANGEBEGINNINGDATE">2024-03-05</MDI>
+        <MDI key="RANGEBEGINNINGTIME">00:00:00</MDI>
+        <MDI key="RANGEENDINGDATE">2024-03-12</MDI>
+        <MDI key="RANGEENDINGTIME">23:59:59</MDI>
+        <MDI key="REPROCESSINGACTUAL">reprocessed</MDI>
+        <MDI key="REPROCESSINGPLANNED">further update is anticipated</MDI>
+        <MDI key="scale_factor">0.02</MDI>
+        <MDI key="scale_factor_err">0</MDI>
+        <MDI key="SCIENCEQUALITYFLAG.1">Not Investigated</MDI>
+        <MDI key="SCIENCEQUALITYFLAGEXPLANATION.1">See http://landweb.nascom/nasa.gov/cgi-bin/QA_WWW/qaFlagPage.cgi?sat=terra&amp;ver=C6 the product Science Quality status.</MDI>
+        <MDI key="SHORTNAME">MOD11A2</MDI>
+        <MDI key="SOUTHBOUNDINGCOORDINATE">20.0041666666667</MDI>
+        <MDI key="SPSOPARAMETERS">2484 and 3323</MDI>
+        <MDI key="TileID">51026006</MDI>
+        <MDI key="units">K</MDI>
+        <MDI key="valid_range">7500, 65535</MDI>
+        <MDI key="VERSIONID">61</MDI>
+        <MDI key="VERTICALTILENUMBER">06</MDI>
+        <MDI key="VERTICALTILENUMBER">06</MDI>
+        <MDI key="WESTBOUNDINGCOORDINATE">85.1343123120416</MDI>
+        <MDI key="_FillValue">0</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Description>8-day nighttime 1km grid Land-surface Temperature</Description>
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">11879</MDI>
+          <MDI key="STATISTICS_MAXIMUM">14977</MDI>
+          <MDI key="STATISTICS_MEAN">14232.393961916</MDI>
+          <MDI key="STATISTICS_STDDEV">521.21585537079</MDI>
+          <MDI key="STATISTICS_VALID_PERCENT">89.04</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="MODIS_Grid_8Day_1km_LST:QC_Night">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="ALGORITHMPACKAGENAME">MOD_PR11A2</MDI>
+        <MDI key="ALGORITHMPACKAGEVERSION">6</MDI>
+        <MDI key="ASSOCIATEDINSTRUMENTSHORTNAME.1">MODIS</MDI>
+        <MDI key="ASSOCIATEDPLATFORMSHORTNAME.1">Terra</MDI>
+        <MDI key="ASSOCIATEDSENSORSHORTNAME.1">MODIS</MDI>
+        <MDI key="AUTOMATICQUALITYFLAG.1">Passed</MDI>
+        <MDI key="AUTOMATICQUALITYFLAGEXPLANATION.1">No automatic quality assessment is performed in the PGE</MDI>
+        <MDI key="CLOUD_CONTAMINATED_LST_SCREENED">NO</MDI>
+        <MDI key="DAYNIGHTFLAG">Both</MDI>
+        <MDI key="DESCRREVISION">6.1</MDI>
+        <MDI key="EASTBOUNDINGCOORDINATE">103.91821851307</MDI>
+        <MDI key="EXCLUSIONGRINGFLAG.1">N</MDI>
+        <MDI key="GRIDTYPE">Sinusoidal</MDI>
+        <MDI key="GRINGPOINTLATITUDE.1">29.9958333333333, 29.9958333333333, 20.0041666666667, 20.0041666666667</MDI>
+        <MDI key="GRINGPOINTLONGITUDE.1">92.3712326718087, 103.91821851307, 95.7766361029078, 85.1343123120416</MDI>
+        <MDI key="GRINGPOINTSEQUENCENO.1">1, 2, 3, 4</MDI>
+        <MDI key="HDFEOSVersion">HDFEOS_V2.19</MDI>
+        <MDI key="HORIZONTALTILENUMBER">26</MDI>
+        <MDI key="HORIZONTALTILENUMBER">26</MDI>
+        <MDI key="identifier_product_doi">10.5067/MODIS/MOD11A2.061</MDI>
+        <MDI key="identifier_product_doi">10.5067/MODIS/MOD11A2.061</MDI>
+        <MDI key="identifier_product_doi_authority">https://doi.org</MDI>
+        <MDI key="identifier_product_doi_authority">https://doi.org</MDI>
+        <MDI key="INPUTPOINTER">MOD11A1.A2024065.h26v06.061.2024066135108.hdf, MOD11A1.A2024066.h26v06.061.2024067120417.hdf, MOD11A1.A2024067.h26v06.061.2024068181916.hdf, MOD11A1.A2024068.h26v06.061.2024069095036.hdf, MOD11A1.A2024069.h26v06.061.2024070093813.hdf, MOD11A1.A2024070.h26v06.061.2024071093000.hdf, MOD11A1.A2024071.h26v06.061.2024073153352.hdf, MOD11A1.A2024072.h26v06.061.2024073235723.hdf</MDI>
+        <MDI key="INSTRUMENTNAME">Moderate-Resolution Imaging SpectroRadiometer</MDI>
+        <MDI key="LOCALGRANULEID">MOD11A2.A2024065.h26v06.061.2024074034334.hdf</MDI>
+        <MDI key="LOCALINPUTGRANULEID">Reserved for future use.</MDI>
+        <MDI key="LOCALVERSIONID">6.3.0</MDI>
+        <MDI key="LONGNAME">MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid</MDI>
+        <MDI key="long_name">Quality control for nighttime LST and emissivity</MDI>
+        <MDI key="NORTHBOUNDINGCOORDINATE">29.9958333333333</MDI>
+        <MDI key="Number Type">uint8</MDI>
+        <MDI key="PARAMETERNAME.1">MOD 8-DAY 1KM L3 LST</MDI>
+        <MDI key="PGEVERSION">6.4.4</MDI>
+        <MDI key="PROCESSINGCENTER">MODAPS</MDI>
+        <MDI key="PROCESSINGDATETIME">2024-03-14T03:43:34.000Z</MDI>
+        <MDI key="PROCESSINGENVIRONMENT">Linux minion20226 5.4.0-1093-fips #103-Ubuntu SMP Thu Feb 8 14:02:37 UTC 2024 x86_64 x86_64 x86_64 GNU/Linux</MDI>
+        <MDI key="PRODUCTIONDATETIME">2024-03-14T03:43:34.000Z</MDI>
+        <MDI key="QAPERCENTCLOUDCOVER.1">1</MDI>
+        <MDI key="QAPERCENTGOODQUALITY">78</MDI>
+        <MDI key="QAPERCENTINTERPOLATEDDATA.1">0</MDI>
+        <MDI key="QAPERCENTMISSINGDATA.1">0</MDI>
+        <MDI key="QAPERCENTNOTPRODUCEDCLOUD">01</MDI>
+        <MDI key="QAPERCENTNOTPRODUCEDOTHER">10</MDI>
+        <MDI key="QAPERCENTOTHERQUALITY">12</MDI>
+        <MDI key="QAPERCENTOUTOFBOUNDSDATA.1">0</MDI>
+        <MDI key="RANGEBEGINNINGDATE">2024-03-05</MDI>
+        <MDI key="RANGEBEGINNINGTIME">00:00:00</MDI>
+        <MDI key="RANGEENDINGDATE">2024-03-12</MDI>
+        <MDI key="RANGEENDINGTIME">23:59:59</MDI>
+        <MDI key="REPROCESSINGACTUAL">reprocessed</MDI>
+        <MDI key="REPROCESSINGPLANNED">further update is anticipated</MDI>
+        <MDI key="SCIENCEQUALITYFLAG.1">Not Investigated</MDI>
+        <MDI key="SCIENCEQUALITYFLAGEXPLANATION.1">See http://landweb.nascom/nasa.gov/cgi-bin/QA_WWW/qaFlagPage.cgi?sat=terra&amp;ver=C6 the product Science Quality status.</MDI>
+        <MDI key="SHORTNAME">MOD11A2</MDI>
+        <MDI key="SOUTHBOUNDINGCOORDINATE">20.0041666666667</MDI>
+        <MDI key="SPSOPARAMETERS">2484 and 3323</MDI>
+        <MDI key="TileID">51026006</MDI>
+        <MDI key="valid_range">0, 255</MDI>
+        <MDI key="VERSIONID">61</MDI>
+        <MDI key="VERTICALTILENUMBER">06</MDI>
+        <MDI key="VERTICALTILENUMBER">06</MDI>
+        <MDI key="WESTBOUNDINGCOORDINATE">85.1343123120416</MDI>
+        <MDI key="_FillValue">NA</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Description>Quality control for nighttime LST and emissivity</Description>
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">2</MDI>
+          <MDI key="STATISTICS_MAXIMUM">145</MDI>
+          <MDI key="STATISTICS_MEAN">39.1302224832</MDI>
+          <MDI key="STATISTICS_STDDEV">30.88809462237</MDI>
+          <MDI key="STATISTICS_VALID_PERCENT">26.61</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="MODIS_Grid_8Day_1km_LST:LST_Day_1km">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="add_offset">0</MDI>
+        <MDI key="add_offset_err">0</MDI>
+        <MDI key="ALGORITHMPACKAGENAME">MOD_PR11A2</MDI>
+        <MDI key="ALGORITHMPACKAGEVERSION">6</MDI>
+        <MDI key="ASSOCIATEDINSTRUMENTSHORTNAME.1">MODIS</MDI>
+        <MDI key="ASSOCIATEDPLATFORMSHORTNAME.1">Terra</MDI>
+        <MDI key="ASSOCIATEDSENSORSHORTNAME.1">MODIS</MDI>
+        <MDI key="AUTOMATICQUALITYFLAG.1">Passed</MDI>
+        <MDI key="AUTOMATICQUALITYFLAGEXPLANATION.1">No automatic quality assessment is performed in the PGE</MDI>
+        <MDI key="calibrated_nt">0</MDI>
+        <MDI key="CLOUD_CONTAMINATED_LST_SCREENED">NO</MDI>
+        <MDI key="DAYNIGHTFLAG">Both</MDI>
+        <MDI key="DESCRREVISION">6.1</MDI>
+        <MDI key="EASTBOUNDINGCOORDINATE">103.91821851307</MDI>
+        <MDI key="EXCLUSIONGRINGFLAG.1">N</MDI>
+        <MDI key="GRIDTYPE">Sinusoidal</MDI>
+        <MDI key="GRINGPOINTLATITUDE.1">29.9958333333333, 29.9958333333333, 20.0041666666667, 20.0041666666667</MDI>
+        <MDI key="GRINGPOINTLONGITUDE.1">92.3712326718087, 103.91821851307, 95.7766361029078, 85.1343123120416</MDI>
+        <MDI key="GRINGPOINTSEQUENCENO.1">1, 2, 3, 4</MDI>
+        <MDI key="HDFEOSVersion">HDFEOS_V2.19</MDI>
+        <MDI key="HORIZONTALTILENUMBER">26</MDI>
+        <MDI key="HORIZONTALTILENUMBER">26</MDI>
+        <MDI key="identifier_product_doi">10.5067/MODIS/MOD11A2.061</MDI>
+        <MDI key="identifier_product_doi">10.5067/MODIS/MOD11A2.061</MDI>
+        <MDI key="identifier_product_doi_authority">https://doi.org</MDI>
+        <MDI key="identifier_product_doi_authority">https://doi.org</MDI>
+        <MDI key="INPUTPOINTER">MOD11A1.A2024065.h26v06.061.2024066135108.hdf, MOD11A1.A2024066.h26v06.061.2024067120417.hdf, MOD11A1.A2024067.h26v06.061.2024068181916.hdf, MOD11A1.A2024068.h26v06.061.2024069095036.hdf, MOD11A1.A2024069.h26v06.061.2024070093813.hdf, MOD11A1.A2024070.h26v06.061.2024071093000.hdf, MOD11A1.A2024071.h26v06.061.2024073153352.hdf, MOD11A1.A2024072.h26v06.061.2024073235723.hdf</MDI>
+        <MDI key="INSTRUMENTNAME">Moderate-Resolution Imaging SpectroRadiometer</MDI>
+        <MDI key="LOCALGRANULEID">MOD11A2.A2024065.h26v06.061.2024074034334.hdf</MDI>
+        <MDI key="LOCALINPUTGRANULEID">Reserved for future use.</MDI>
+        <MDI key="LOCALVERSIONID">6.3.0</MDI>
+        <MDI key="LONGNAME">MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid</MDI>
+        <MDI key="long_name">8-day daytime 1km grid Land-surface Temperature</MDI>
+        <MDI key="LST">LST data * scale_factor</MDI>
+        <MDI key="NORTHBOUNDINGCOORDINATE">29.9958333333333</MDI>
+        <MDI key="Number Type">uint16</MDI>
+        <MDI key="PARAMETERNAME.1">MOD 8-DAY 1KM L3 LST</MDI>
+        <MDI key="PGEVERSION">6.4.4</MDI>
+        <MDI key="PROCESSINGCENTER">MODAPS</MDI>
+        <MDI key="PROCESSINGDATETIME">2024-03-14T03:43:34.000Z</MDI>
+        <MDI key="PROCESSINGENVIRONMENT">Linux minion20226 5.4.0-1093-fips #103-Ubuntu SMP Thu Feb 8 14:02:37 UTC 2024 x86_64 x86_64 x86_64 GNU/Linux</MDI>
+        <MDI key="PRODUCTIONDATETIME">2024-03-14T03:43:34.000Z</MDI>
+        <MDI key="QAPERCENTCLOUDCOVER.1">1</MDI>
+        <MDI key="QAPERCENTGOODQUALITY">78</MDI>
+        <MDI key="QAPERCENTINTERPOLATEDDATA.1">0</MDI>
+        <MDI key="QAPERCENTMISSINGDATA.1">0</MDI>
+        <MDI key="QAPERCENTNOTPRODUCEDCLOUD">01</MDI>
+        <MDI key="QAPERCENTNOTPRODUCEDOTHER">10</MDI>
+        <MDI key="QAPERCENTOTHERQUALITY">12</MDI>
+        <MDI key="QAPERCENTOUTOFBOUNDSDATA.1">0</MDI>
+        <MDI key="RANGEBEGINNINGDATE">2024-03-05</MDI>
+        <MDI key="RANGEBEGINNINGTIME">00:00:00</MDI>
+        <MDI key="RANGEENDINGDATE">2024-03-12</MDI>
+        <MDI key="RANGEENDINGTIME">23:59:59</MDI>
+        <MDI key="REPROCESSINGACTUAL">reprocessed</MDI>
+        <MDI key="REPROCESSINGPLANNED">further update is anticipated</MDI>
+        <MDI key="scale_factor">0.02</MDI>
+        <MDI key="scale_factor_err">0</MDI>
+        <MDI key="SCIENCEQUALITYFLAG.1">Not Investigated</MDI>
+        <MDI key="SCIENCEQUALITYFLAGEXPLANATION.1">See http://landweb.nascom/nasa.gov/cgi-bin/QA_WWW/qaFlagPage.cgi?sat=terra&amp;ver=C6 the product Science Quality status.</MDI>
+        <MDI key="SHORTNAME">MOD11A2</MDI>
+        <MDI key="SOUTHBOUNDINGCOORDINATE">20.0041666666667</MDI>
+        <MDI key="SPSOPARAMETERS">2484 and 3323</MDI>
+        <MDI key="TileID">51026006</MDI>
+        <MDI key="units">K</MDI>
+        <MDI key="valid_range">7500, 65535</MDI>
+        <MDI key="VERSIONID">61</MDI>
+        <MDI key="VERTICALTILENUMBER">06</MDI>
+        <MDI key="VERTICALTILENUMBER">06</MDI>
+        <MDI key="WESTBOUNDINGCOORDINATE">85.1343123120416</MDI>
+        <MDI key="_FillValue">0</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Description>8-day daytime 1km grid Land-surface Temperature</Description>
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">12629</MDI>
+          <MDI key="STATISTICS_MAXIMUM">15791</MDI>
+          <MDI key="STATISTICS_MEAN">14749.539078546</MDI>
+          <MDI key="STATISTICS_STDDEV">474.5872289927</MDI>
+          <MDI key="STATISTICS_VALID_PERCENT">90.04</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+</PAMDataset>
