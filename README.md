@@ -1,6 +1,7 @@
 # Urban-Heat-Island
 <img width="652" height="584" alt="Screenshot 2025-11-15 015637" src="https://github.com/user-attachments/assets/1983e44b-44e6-4ee6-95d3-aa19a86b4d11" />
 <img width="803" height="687" alt="Screenshot 2025-11-15 015723" src="https://github.com/user-attachments/assets/446999bc-9c62-48e9-9e1b-da5ef0a739bb" />
+<br><hr>
 This repository contains my academic project on Urban Heat Island (UHI) analysis with a focus on major Indian cities during the summer of 2024. The project aims to understand how urbanization affects local temperatures and how cities behave differently during daytime and nighttime.
 
 The work combines data analysis, visual interpretation, and case-based reasoning to highlight the intensity of UHI and its impacts on urban environments.
